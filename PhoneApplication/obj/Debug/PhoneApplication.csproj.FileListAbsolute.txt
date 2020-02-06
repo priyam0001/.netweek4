@@ -74,3 +74,9 @@ C:\Users\patel\source\repos\PhoneApplication\PhoneApplication\obj\Debug\PhoneApp
 C:\Users\patel\source\repos\PhoneApplication\PhoneApplication\obj\Debug\PhoneApplication.csproj.CopyComplete
 C:\Users\patel\source\repos\PhoneApplication\PhoneApplication\obj\Debug\PhoneApplication.dll
 C:\Users\patel\source\repos\PhoneApplication\PhoneApplication\obj\Debug\PhoneApplication.pdb
+C:\Users\patel\source\repos\PhoneApplication\PhoneApplication\bin\EntityFramework.dll
+C:\Users\patel\source\repos\PhoneApplication\PhoneApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\patel\source\repos\PhoneApplication\PhoneApplication\bin\EntityFramework.xml
+C:\Users\patel\source\repos\PhoneApplication\PhoneApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\patel\source\repos\PhoneApplication\PhoneApplication\obj\Debug\PhoneApplication.Migrations.InitialCreate.resources
+C:\Users\patel\source\repos\PhoneApplication\PhoneApplication\obj\Debug\PhoneApplication.csproj.GenerateResource.cache
